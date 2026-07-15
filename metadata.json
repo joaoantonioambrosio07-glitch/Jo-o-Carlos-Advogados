@@ -1,0 +1,6 @@
+{
+  "name": "João Carlos Advogados Associados",
+  "description": "Site institucional de advocacia premium em Campina Grande, PB, especializado em Direito Cível, Trabalhista e Consultivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
